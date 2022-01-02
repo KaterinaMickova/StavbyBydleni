@@ -1,0 +1,90 @@
+﻿.text-dark-blue {
+    color: #1c4280;
+}
+
+.btn-outline-light-blue {
+    background: transparent;
+    border-color: #1c4280;
+    color: #1c4280;
+}
+
+    .btn-outline-light-blue:hover, .btn-light-blue:hover {
+        background: #1c4280;
+        color: white;
+    }
+.footer-background {
+    background: #F9F9F9;
+}
+
+.subsidiaries-background {
+    background: #616f87;
+}
+.virtual-studio-background {
+    background: #F0F0F2 url('images/interior.jpg') no-repeat center;
+    background-size: cover;
+}
+.btn-light-blue {
+    background: #46669c;
+    color: white;
+}
+.text-shadow-gray {
+    text-shadow: 1px 1px 0 #333;
+}
+.bubble {
+    background: rgba(255, 255, 255, 0.88);
+    padding: 50px;
+}
+.header-background {
+    background: url('images/exterior.jpg') no-repeat bottom;
+    background-size: cover;
+    padding-bottom: 140px;
+}
+.slogan {
+    font-size: 3rem;
+}
+.image-width {
+   max-width: 100px;
+}
+.buttons {
+    transform: translateY(-50%);
+    box-shadow: 0 0 10px #b6b6b6;
+    margin-bottom: -40px;
+}
+.white-button:hover {
+    background: #F9F9F9;
+    cursor: pointer;
+}
+.navbar-white-underline li {
+    border-bottom: 2px solid transparent;
+    font-size: .8rem;
+    font-weight: bold;
+    text-shadow: 0 0 4px #171717;
+}
+.navbar-white-underline li:hover {
+    border-bottom: 2px solid white;
+}
+.img-logo {
+    max-height: 60px;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+@media screen and (min-device-width: 280px) and (max-device-width: 450px) {
+
+    .k {
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+
+
+
+
+    
